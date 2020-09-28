@@ -1,0 +1,6 @@
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\DIT2\WindowsInput\bin\x86\Debug\WindowsInput.dll
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\DIT2\WindowsInput\bin\x86\Debug\WindowsInput.pdb
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\DIT2\WindowsInput\bin\x86\Debug\WindowsInput.xml
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\DIT2\WindowsInput\obj\x86\Debug\WindowsInput.csprojResolveAssemblyReference.cache
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\DIT2\WindowsInput\obj\x86\Debug\WindowsInput.dll
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\DIT2\WindowsInput\obj\x86\Debug\WindowsInput.pdb

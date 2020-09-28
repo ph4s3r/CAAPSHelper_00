@@ -1,0 +1,12 @@
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\inputsimulator-master\WindowsInput\bin\Debug\WindowsInput.xml
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\inputsimulator-master\WindowsInput\bin\Debug\WindowsInput.dll
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\inputsimulator-master\WindowsInput\bin\Debug\WindowsInput.pdb
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\inputsimulator-master\WindowsInput\obj\Debug\WindowsInput.csprojResolveAssemblyReference.cache
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\inputsimulator-master\WindowsInput\obj\Debug\WindowsInput.dll
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\inputsimulator-master\WindowsInput\obj\Debug\WindowsInput.pdb
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\CAAPSHelper_00\WindowsInput\bin\Debug\WindowsInput.xml
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\CAAPSHelper_00\WindowsInput\bin\Debug\WindowsInput.dll
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\CAAPSHelper_00\WindowsInput\bin\Debug\WindowsInput.pdb
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\CAAPSHelper_00\WindowsInput\obj\Debug\WindowsInput.csprojResolveAssemblyReference.cache
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\CAAPSHelper_00\WindowsInput\obj\Debug\WindowsInput.dll
+C:\Users\HU47073\Documents\Visual Studio 2012\Projects\CAAPSHelper_00\WindowsInput\obj\Debug\WindowsInput.pdb

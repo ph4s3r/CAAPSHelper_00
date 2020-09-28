@@ -1,0 +1,14 @@
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\CAAPSHelper_00.exe.config
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\CAAPSHelper_00.exe
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\CAAPSHelper_00.pdb
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\obj\Debug\CAAPSHelper_00.csprojResolveAssemblyReference.cache
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\obj\Debug\CAAPSHelper_00.Form1.resources
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\obj\Debug\CAAPSHelper_00.Properties.Resources.resources
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\obj\Debug\CAAPSHelper_00.csproj.GenerateResource.Cache
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\obj\Debug\CAAPSHelper_00.exe
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\obj\Debug\CAAPSHelper_00.pdb
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\Emgu.CV.dll
+c:\users\hu47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\Emgu.Util.dll
+C:\Users\HU47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\WindowsInput.dll
+C:\Users\HU47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\WindowsInput.pdb
+C:\Users\HU47073\documents\visual studio 2012\Projects\CAAPSHelper_00\CAAPSHelper_00\bin\Debug\WindowsInput.xml
